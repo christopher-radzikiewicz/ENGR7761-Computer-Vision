@@ -1,6 +1,6 @@
 # ENGR7761-Computer-Vision
 
-Repositry for my KLT dart tracker implmented using Python OpenCV.
+Repositry for my KLT dart tracker implemented using Python OpenCV.
 ## Project motivation
 The purpose of the project was to investigate how the trajectory of a dart could be estimated and plotted using computer vision with the Lucas-Kanade (LK) method.
 
